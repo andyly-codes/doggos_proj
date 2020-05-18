@@ -1,0 +1,1001 @@
+"id","age","npeople","work","activity","bedrooms","gardensize"
+470,21,2,"full time",90,2,11
+577,28,2,"full time",120,2,10
+629,26,2,"full time",105,2,11
+910,23,2,"full time",115,2,8
+337,53,3,"part time",100,5,17.5
+162,69,3,"part time",65,5,21.5
+946,50,2,"part time",40,5,14
+456,37,4,"full time",65,4,7.5
+763,73,2,"unemployed/retired",40,3,9.5
+1053,74,1,"unemployed/retired",50,2,9.5
+810,75,1,"unemployed/retired",45,2,9
+851,54,3,"unemployed/retired",55,6,18.5
+857,45,2,"full time",65,4,12.5
+686,42,2,"part time",60,4,15.5
+467,73,1,"unemployed/retired",50,2,8.5
+548,47,2,"part time",55,4,14.5
+362,45,2,"part time",NA,3,11.5
+691,75,1,"unemployed/retired",40,2,9.5
+1044,66,2,"unemployed/retired",50,2,14
+365,47,2,"part time",75,4,18
+77,74,2,"unemployed/retired",55,2,13.5
+556,80,1,"unemployed/retired",40,2,11.5
+361,24,2,"full time",105,2,9
+164,76,1,"unemployed/retired",35,3,8.5
+8,25,2,"full time",80,2,9.5
+29,65,2,"unemployed/retired",55,2,15
+712,34,4,"part time",65,3,7.5
+385,73,1,"unemployed/retired",50,3,8.5
+127,32,4,"full time",70,3,8
+774,67,2,"unemployed/retired",45,2,11
+258,35,4,"part time",75,3,9
+320,56,3,"unemployed/retired",100,6,27
+376,33,4,"part time",80,3,7.5
+957,81,1,"unemployed/retired",55,2,10
+144,73,1,"unemployed/retired",40,3,10
+681,131,2,"unemployed/retired",60,2,15
+870,36,4,"part time",65,4,9
+635,24,2,"full time",75,1,11.5
+303,44,3,"unemployed/retired",110,5,22.5
+592,NA,2,"full time",90,2,8
+221,81,2,"unemployed/retired",65,3,12.5
+866,26,2,"full time",80,2,8.5
+374,79,1,"unemployed/retired",45,2,10
+875,56,3,"unemployed/retired",90,5,26
+163,35,4,"full time",75,3,9
+883,63,2,"unemployed/retired",50,2,11
+693,59,2,"unemployed/retired",55,2,11
+949,27,2,"full time",90,2,10
+410,25,2,"full time",90,2,10
+81,30,4,"full time",75,3,8.5
+951,59,2,"unemployed/retired",60,3,10.5
+66,77,1,"unemployed/retired",50,2,10
+260,47,2,"part time",85,4,22
+755,48,2,"part time",65,5,16.5
+687,68,1,"unemployed/retired",60,2,10
+624,36,4,"part time",70,3,10
+1089,69,1,NA,35,2,7.5
+1075,46,2,"full time",60,3,13
+627,72,1,"unemployed/retired",45,1,10.5
+69,58,3,"part time",85,5,28
+433,45,2,"full time",60,4,NA
+740,40,4,"part time",80,4,10
+733,64,10,"unemployed/retired",40,2,10
+1037,27,2,"full time",7000,2,9.5
+845,49,2,"part time",65,5,18.5
+332,35,4,"full time",60,3,8
+418,79,1,"unemployed/retired",40,2,9.5
+110,27,4,"full time",65,3,9.5
+534,34,4,"part time",80,3,8.5
+860,47,2,"full time",60,5,12.5
+115,27,2,"full time",95,3,11.5
+178,33,5,"part time",65,3,9
+1081,29,2,"full time",75,3,12.5
+689,44,2,"full time",50,4,13.5
+95,69,1,"unemployed/retired",50,2,8
+572,26,2,"full time",110,2,10
+383,24,2,"full time",85,2,7.5
+561,24,2,"full time",NA,2,9.5
+513,45,2,"full time",65,3,12.5
+349,45,10,"part time",50,4,15.5
+42,24,2,"full time",100,2,10.5
+999,24,2,"full time",65,1,9
+638,36,4,"full time",7500,3,9
+21,34,4,"part time",85,3,8.5
+678,56,3,"part time",75,4,21.5
+536,28,2,"full time",95,2,11.5
+1043,46,2,"full time",55,4,13.5
+89,49,2,"part time",80,4,14
+497,66,2,"unemployed/retired",50,NA,12
+503,25,2,"full time",100,1,9
+22,65,2,"unemployed/retired",65,3,10
+237,51,2,"full time",50,5,14
+364,41,4,"part time",65,3,11
+1005,76,2,"unemployed/retired",5000,2,13
+1,31,4,"full time",65,3,7.5
+1078,51,3,NA,105,4,20.5
+113,41,4,"unemployed/retired",130,5,26.5
+363,77,2,"unemployed/retired",50,2,14
+1032,68,2,"unemployed/retired",55,NA,14
+505,72,2,"unemployed/retired",50,2,14.5
+662,64,2,"unemployed/retired",50,3,14
+283,69,2,NA,45,3,12.5
+388,75,1,"unemployed/retired",NA,2,9
+738,42,10,"full time",65,4,9.5
+250,127,3,NA,75,5,22.5
+795,34,4,"part time",75,4,9.5
+1006,55,3,"part time",80,5,24.5
+941,44,2,"full time",65,4,15.5
+881,40,4,"part time",50,3,10
+802,73,2,"unemployed/retired",50,3,11
+1091,24,2,"full time",65,3,9
+425,82,1,"unemployed/retired",50,2,13
+573,26,2,"full time",125,2,10.5
+473,48,2,"part time",65,4,14.5
+834,27,4,"part time",75,3,8.5
+341,45,2,"full time",50,4,13.5
+1050,57,2,"part time",85,6,21.5
+256,45,2,"full time",45,5,12.5
+916,45,2,"part time",60,4,16.5
+848,56,2,"part time",105,4,24.5
+37,25,2,"full time",95,2,8
+633,26,2,"full time",95,3,9
+983,24,2,"full time",70,2,8.5
+298,60,2,"unemployed/retired",50,2,11.5
+692,30,5,"part time",70,2,8.5
+533,70,1,"unemployed/retired",45,2,9.5
+859,66,2,"unemployed/retired",5000,2,13.5
+152,47,2,"full time",60,4,18
+1060,79,1,"unemployed/retired",40,2,8.5
+571,NA,2,"part time",65,4,11.5
+725,43,2,"full time",65,4,13
+329,24,2,"full time",60,3,7.5
+909,33,4,"full time",75,3,10.5
+379,75,2,"unemployed/retired",50,2,13
+779,58,2,"unemployed/retired",55,2,12.5
+574,36,4,"part time",55,3,8
+891,54,3,"unemployed/retired",100,5,29.5
+231,32,4,"full time",70,2,10
+1083,34,4,"full time",60,2,8.5
+835,85,NA,"unemployed/retired",40,2,11.5
+101,48,2,"full time",65,4,18
+39,43,2,"full time",60,4,11.5
+1072,26,2,"full time",110,2,9.5
+549,66,2,"unemployed/retired",55,3,14
+253,44,2,"full time",55,4,NA
+903,27,2,"full time",80,2,8
+1042,25,2,"full time",90,2,8
+777,25,2,"full time",95,2,10
+484,45,2,"full time",60,3,14.5
+246,43,2,"part time",60,4,14.5
+675,63,2,"unemployed/retired",50,3,14.5
+718,33,4,"full time",80,4,10
+770,79,1,"unemployed/retired",50,2,11
+598,80,1,"unemployed/retired",45,2,9.5
+597,76,1,"unemployed/retired",55,2,8
+171,30,4,"full time",60,2,8.5
+229,73,2,"unemployed/retired",50,2,14.5
+72,NA,2,"full time",75,2,11
+399,44,3,"unemployed/retired",80,5,15.5
+463,68,2,"unemployed/retired",55,2,11.5
+210,26,2,"full time",110,2,13
+264,74,1,"unemployed/retired",55,2,12
+347,67,2,"unemployed/retired",50,3,13.5
+183,59,3,"unemployed/retired",NA,5,21
+108,48,2,"part time",95,4,19.5
+889,22,2,"full time",55,2,7.5
+4,92,2,"full time",80,NA,8.5
+919,64,2,"unemployed/retired",40,3,13.5
+1092,33,4,"part time",80,3,8.5
+442,59,2,"unemployed/retired",45,3,13.5
+342,71,2,"unemployed/retired",50,3,13
+451,55,3,"unemployed/retired",100,6,22.5
+952,33,4,"part time",85,2,9.5
+46,26,2,"full time",105,2,11.5
+261,86,1,"unemployed/retired",30,2,9.5
+698,72,2,"unemployed/retired",40,2,14
+1015,24,2,"full time",95,2,4.5
+18,25,2,"full time",100,NA,11
+19,72,1,"unemployed/retired",40,2,11.5
+122,30,4,"full time",85,2,10
+828,64,4,"unemployed/retired",NA,4,24.5
+170,77,1,"unemployed/retired",55,3,NA
+443,80,2,"unemployed/retired",50,2,10
+1085,36,4,"part time",65,3,9.5
+195,46,2,"part time",55,4,12
+444,65,1,"unemployed/retired",40,2,8.5
+727,45,2,"full time",NA,3,8.5
+143,35,20,"full time",65,3,10.5
+616,44,2,"full time",65,3,13
+217,57,3,"part time",70,6,24
+645,83,1,"unemployed/retired",35,2,13.5
+1031,68,2,"unemployed/retired",55,3,14
+145,74,1,"unemployed/retired",50,2,9
+923,80,1,"unemployed/retired",30,2,11
+937,65,2,"unemployed/retired",55,2,12
+642,48,3,"unemployed/retired",95,4,21.5
+447,45,2,"part time",60,4,14
+955,48,2,"full time",50,4,14.5
+541,24,2,"full time",110,NA,12
+488,47,2,"full time",70,5,14.5
+535,45,2,"full time",45,4,13.5
+232,70,2,"unemployed/retired",40,3,13.5
+78,28,4,"full time",80,3,9.5
+801,24,2,"full time",80,2,8
+677,75,1,"unemployed/retired",55,2,11
+55,67,1,"unemployed/retired",50,2,8
+935,42,2,"full time",65,4,12
+76,36,4,"full time",60,NA,9.5
+962,38,3,"part time",90,3,18
+312,67,2,"unemployed/retired",50,2,11.5
+292,38,4,"part time",75,3,10
+355,35,4,"full time",80,4,10.5
+739,26,2,"full time",80,1,11
+315,52,3,"part time",80,6,19.5
+817,28,2,"full time",120,2,11
+1021,25,10,"full time",100,2,6.5
+222,33,3,"part time",75,3,7.5
+942,35,4,"full time",85,3,10
+274,45,2,"full time",50,4,13
+1100,43,2,"part time",45,4,17.5
+784,50,3,"unemployed/retired",95,4,17
+177,24,2,"full time",100,3,9.5
+377,50,3,"unemployed/retired",80,5,21
+407,38,4,"part time",85,7,21
+174,32,4,"full time",75,3,8.5
+604,22,2,"full time",120,2,10.5
+575,63,3,NA,95,5,28
+710,150,2,"unemployed/retired",40,3,13.5
+950,27,4,"full time",75,3,10
+1018,67,2,"unemployed/retired",50,2,13
+1057,50,2,"full time",70,5,16.5
+538,27,2,"full time",80,2,10
+208,29,4,"part time",110,3,8.5
+278,66,2,"unemployed/retired",55,3,13.5
+745,26,2,"full time",85,NA,12.5
+901,78,2,"unemployed/retired",45,3,12
+477,67,1,"unemployed/retired",50,1,9
+83,74,1,"unemployed/retired",40,2,10
+586,73,1,"unemployed/retired",45,1,9
+104,31,NA,"part time",85,3,10.5
+416,41,3,"part time",80,5,24.5
+982,28,5,"full time",85,3,8.5
+15,23,2,"full time",90,2,10
+769,45,2,"full time",70,4,14.5
+626,50,2,"part time",105,4,21
+537,74,2,"unemployed/retired",40,2,14.5
+386,25,2,"full time",75,2,8
+212,74,2,"unemployed/retired",60,3,14.5
+310,NA,NA,"full time",60,3,8.5
+334,45,2,"full time",50,4,17
+70,35,4,"part time",65,3,10.5
+26,66,2,"unemployed/retired",50,2,13.5
+494,71,1,"unemployed/retired",50,2,9
+1048,43,10,"full time",65,4,13.5
+669,31,4,"full time",75,3,8
+302,44,2,"part time",60,3,14.5
+290,38,4,"part time",30,3,8
+611,60,3,"unemployed/retired",100,5,28
+203,55,2,"unemployed/retired",50,3,12.5
+885,31,4,"full time",70,3,9
+621,36,4,"part time",60,3,8
+434,32,4,"full time",80,NA,9
+880,76,1,"unemployed/retired",40,2,12
+1049,32,4,"full time",60,2,9
+841,74,1,"unemployed/retired",45,3,11
+492,71,2,"unemployed/retired",50,2,13.5
+664,50,3,"unemployed/retired",100,5,22
+139,32,3,"part time",75,3,9.5
+809,77,1,"unemployed/retired",55,2,13.5
+578,66,2,"unemployed/retired",50,3,13
+788,25,2,"full time",100,2,NA
+397,32,4,"part time",100,3,10
+959,25,NA,"full time",80,2,10
+820,80,1,"unemployed/retired",40,2,11
+988,91,2,"unemployed/retired",50,3,15.5
+584,37,3,"full time",60,3,8.5
+323,74,1,NA,40,2,11
+527,46,2,"part time",60,4,12
+990,42,2,"part time",70,4,9
+1026,26,2,"full time",70,2,10
+455,67,1,"unemployed/retired",45,2,9.5
+198,47,2,"part time",55,4,15
+904,20,2,"full time",120,1,11
+294,26,2,"full time",85,2,8
+466,46,2,"full time",55,4,14
+117,60,2,"unemployed/retired",55,2,11.5
+343,46,10,"part time",45,5,17
+84,75,1,"unemployed/retired",55,2,10
+330,69,2,"unemployed/retired",60,2,NA
+922,82,1,"unemployed/retired",50,3,12.5
+799,48,2,"part time",50,5,15
+396,26,3,"full time",50,3,NA
+1056,47,2,"part time",55,4,16
+296,33,3,"part time",100,5,17
+766,44,4,"unemployed/retired",115,6,20.5
+926,78,1,"unemployed/retired",50,1,NA
+652,56,3,"unemployed/retired",60,NA,19.5
+620,46,2,"full time",60,4,14
+558,35,20,"part time",95,3,8
+542,NA,1,"unemployed/retired",50,2,12
+286,36,5,"part time",85,3,10
+800,46,2,"full time",45,5,15
+551,52,3,"part time",70,5,25
+553,27,2,"full time",80,2,9.5
+634,75,2,"unemployed/retired",40,3,13.5
+1019,25,2,"full time",115,2,NA
+914,63,3,"unemployed/retired",105,5,26
+265,73,2,"unemployed/retired",45,3,13
+20,59,3,"unemployed/retired",90,6,22.5
+390,65,2,"unemployed/retired",60,2,13.5
+156,79,1,"unemployed/retired",60,2,10
+275,26,2,"full time",110,2,9
+519,68,2,"unemployed/retired",55,3,14
+625,34,3,"part time",9500,3,10
+1087,32,4,"full time",70,4,9.5
+695,25,2,"full time",80,NA,11
+344,71,2,"unemployed/retired",55,3,13
+400,63,2,"unemployed/retired",55,3,12.5
+109,20,2,"full time",65,1,8
+1029,NA,2,"unemployed/retired",45,3,11
+128,46,2,"full time",65,4,17.5
+908,64,2,"unemployed/retired",45,2,13.5
+540,48,2,"unemployed/retired",100,5,23
+60,29,4,"part time",75,2,7.5
+1041,55,3,"part time",60,NA,18.5
+304,60,3,"unemployed/retired",90,4,22.5
+1068,52,4,"part time",100,5,25
+971,37,4,"part time",75,4,10.5
+313,48,2,"part time",65,4,16
+239,81,1,"unemployed/retired",65,2,9.5
+17,43,3,"part time",115,5,NA
+892,73,1,"unemployed/retired",35,2,10
+285,94,2,"full time",75,2,7
+517,79,2,"unemployed/retired",50,3,15.5
+62,70,1,NA,55,2,10
+701,52,3,"part time",80,5,26.5
+628,25,2,"full time",100,2,9.5
+509,49,2,"part time",50,5,14
+305,28,2,"full time",65,2,10
+649,46,2,"part time",70,4,14.5
+196,42,2,"full time",55,4,NA
+57,26,2,"full time",85,2,10
+58,81,1,"unemployed/retired",NA,2,NA
+803,74,2,"unemployed/retired",45,2,10.5
+1033,59,2,"unemployed/retired",100,6,20
+345,66,2,"unemployed/retired",50,2,13.5
+619,49,3,"unemployed/retired",80,5,20.5
+781,25,2,"full time",105,2,10.5
+730,34,3,"full time",45,4,9.5
+30,24,2,"full time",85,2,8.5
+850,75,1,"unemployed/retired",30,2,7
+609,25,2,"full time",75,2,10
+249,65,2,"unemployed/retired",40,2,11
+898,75,1,"unemployed/retired",45,3,8
+756,36,5,"part time",70,4,9
+842,48,2,"full time",60,NA,16
+570,70,2,"unemployed/retired",55,3,14.5
+63,25,2,"full time",90,2,8.5
+227,49,3,"part time",55,5,20.5
+760,38,4,"part time",65,3,8.5
+886,44,2,"full time",55,3,14.5
+309,26,2,"full time",75,2,11.5
+34,59,3,"unemployed/retired",100,6,24.5
+318,45,2,"part time",70,4,13.5
+849,NA,1,"unemployed/retired",45,2,6
+593,45,2,"full time",60,4,13.5
+531,22,2,"full time",80,1,6
+897,53,2,"part time",65,5,12.5
+650,56,3,"part time",80,5,17.5
+852,32,2,"part time",95,5,17
+557,21,2,"full time",120,2,9.5
+1069,54,3,"unemployed/retired",80,5,20.5
+357,78,1,"unemployed/retired",40,2,9.5
+723,76,1,"unemployed/retired",50,2,7.5
+868,78,1,"unemployed/retired",NA,2,10
+125,58,3,"part time",75,4,18
+805,34,4,"full time",60,3,7.5
+223,25,2,"full time",95,2,11
+925,130,3,"unemployed/retired",75,5,21
+877,85,2,"unemployed/retired",50,2,12.5
+717,69,2,"unemployed/retired",55,2,12.5
+637,49,3,"unemployed/retired",110,5,27.5
+615,23,2,"full time",85,2,8
+92,23,2,"full time",120,2,10.5
+568,43,2,"part time",65,4,14
+1059,NA,NA,"part time",80,3,9
+933,41,4,"part time",75,3,9
+974,50,3,"unemployed/retired",100,6,22
+837,35,4,"part time",80,3,10
+831,27,2,"full time",90,3,10.5
+404,49,2,"full time",5000,4,14.5
+360,49,2,"part time",115,5,18.5
+32,35,4,"full time",80,3,10
+394,57,2,"unemployed/retired",55,2,11.5
+1097,65,1,"unemployed/retired",50,1,10
+435,25,2,"full time",100,2,8
+623,67,2,"unemployed/retired",40,2,12
+780,25,2,"full time",85,2,9
+510,58,2,"unemployed/retired",55,2,NA
+796,52,2,"part time",65,4,21
+550,85,2,"unemployed/retired",55,3,14.5
+52,40,2,"part time",NA,5,19
+91,100,4,"part time",85,3,8.5
+452,68,2,"unemployed/retired",50,3,17
+732,77,2,"unemployed/retired",55,NA,16.5
+1080,45,2,"part time",60,4,11
+6,29,4,"part time",55,3,7.5
+821,79,1,"unemployed/retired",45,2,9.5
+511,81,1,"unemployed/retired",35,2,10.5
+291,67,1,"unemployed/retired",50,2,8
+191,36,4,"part time",100,4,10
+825,82,NA,"unemployed/retired",50,2,10
+522,27,2,"full time",80,3,10
+833,71,1,"unemployed/retired",60,2,12
+661,75,1,"unemployed/retired",45,2,8.5
+697,48,4,"unemployed/retired",95,6,23
+606,60,3,"unemployed/retired",85,6,25.5
+995,45,2,"part time",65,4,15
+1073,23,2,"full time",95,1,8
+685,48,4,"unemployed/retired",60,5,25
+119,35,3,"part time",95,3,8
+1086,64,2,"unemployed/retired",45,2,12
+197,72,1,"unemployed/retired",55,2,7.5
+61,45,2,"full time",50,4,9.5
+853,22,2,"full time",115,1,6.5
+981,33,4,"part time",60,4,10
+194,54,3,"unemployed/retired",NA,5,22
+216,31,4,"full time",95,3,9.5
+469,26,2,"full time",95,2,8
+395,158,1,"unemployed/retired",NA,NA,12.5
+49,45,2,"part time",60,4,18
+33,46,2,"full time",60,4,17.5
+785,43,2,"full time",70,4,12.5
+504,74,2,"unemployed/retired",40,3,15.5
+333,26,2,"full time",85,3,7.5
+656,77,2,"unemployed/retired",50,2,11.5
+422,24,2,"full time",95,3,10.5
+524,25,2,"full time",70,NA,9
+1002,61,2,"unemployed/retired",45,3,12
+3,73,2,"unemployed/retired",60,2,13.5
+646,27,2,"full time",105,2,9
+947,35,4,"full time",70,3,9.5
+1052,24,2,"full time",80,2,9
+235,63,3,"part time",70,4,24
+479,28,2,"full time",95,2,9.5
+219,24,2,"full time",90,2,NA
+472,80,1,"unemployed/retired",35,2,9
+872,65,3,"unemployed/retired",95,7,22
+884,42,2,"part time",50,4,12.5
+281,44,2,"part time",50,4,14.5
+928,62,2,"unemployed/retired",50,3,14
+660,42,2,"full time",70,3,12
+847,86,2,"unemployed/retired",NA,2,14.5
+958,22,2,"full time",115,2,11.5
+353,43,2,"part time",50,4,NA
+843,89,2,"unemployed/retired",50,3,14
+867,62,2,"unemployed/retired",NA,3,12.5
+844,25,2,"full time",75,3,6
+489,49,3,"unemployed/retired",100,5,21.5
+481,36,4,"full time",55,3,9
+806,25,2,"full time",120,2,8.5
+972,77,1,"unemployed/retired",50,3,10
+214,30,10,"full time",NA,3,9
+429,62,2,"unemployed/retired",40,3,12.5
+114,78,2,"unemployed/retired",40,3,13.5
+56,46,2,"full time",45,3,10.5
+48,79,1,"unemployed/retired",50,2,11.5
+401,82,NA,"unemployed/retired",45,2,9.5
+580,25,2,"full time",100,2,7.5
+461,74,2,"unemployed/retired",50,3,13.5
+1047,50,2,"part time",70,5,17
+255,54,3,"unemployed/retired",100,6,26
+226,84,1,"unemployed/retired",50,2,11
+776,29,2,"full time",90,3,12
+682,115,2,"part time",65,5,16.5
+233,47,2,"full time",55,3,12
+381,68,1,NA,35,2,9.5
+9,44,2,"part time",70,4,15
+359,45,2,"full time",65,NA,15
+773,24,20,"full time",95,3,8.5
+502,78,1,"unemployed/retired",45,2,8.5
+613,26,2,"full time",85,2,9
+40,22,2,"full time",95,2,8
+424,73,1,"unemployed/retired",45,2,10.5
+706,69,2,"unemployed/retired",50,2,11.5
+567,44,2,"part time",60,5,14
+854,46,2,"full time",60,4,19
+899,57,3,"unemployed/retired",85,5,NA
+984,75,1,"unemployed/retired",45,2,8
+272,26,2,"full time",90,2,6.5
+411,59,3,"unemployed/retired",8000,5,26
+840,40,2,"part time",NA,4,12
+417,24,2,"full time",90,2,8.5
+247,34,4,"full time",40,3,9.5
+427,46,3,"unemployed/retired",75,5,24.5
+1038,58,3,"unemployed/retired",70,6,24.5
+1093,75,1,"unemployed/retired",45,NA,7
+552,47,2,"part time",60,4,15
+913,34,NA,"full time",80,3,9.5
+617,56,2,"unemployed/retired",55,2,12
+10,38,4,"part time",85,3,9.5
+871,34,5,"part time",45,3,8
+370,59,2,"unemployed/retired",55,NA,11.5
+965,46,2,"part time",65,4,17
+790,42,2,"full time",60,3,7.5
+508,35,4,"full time",75,3,8
+153,23,2,"full time",80,2,6
+992,34,3,"full time",NA,4,8.5
+266,44,3,"part time",90,5,25.5
+658,79,1,"unemployed/retired",35,2,8
+1054,97,2,"full time",75,3,9
+560,53,3,"part time",80,5,NA
+51,52,2,"unemployed/retired",130,4,20
+168,51,3,"unemployed/retired",105,4,24
+954,72,2,"unemployed/retired",55,3,12
+269,25,2,"full time",80,NA,NA
+813,45,2,"part time",60,4,18.5
+665,129,4,"unemployed/retired",75,7,20
+12,54,3,"unemployed/retired",100,4,22.5
+317,49,2,"full time",60,4,NA
+1012,45,2,"part time",60,4,13
+1003,26,2,"full time",95,2,9
+672,58,2,"unemployed/retired",50,2,14
+562,65,2,"unemployed/retired",55,2,11
+284,25,2,"full time",100,2,7.5
+707,50,2,"full time",60,4,17
+471,69,1,"unemployed/retired",45,2,7.5
+814,60,2,"unemployed/retired",60,2,12
+506,61,2,"unemployed/retired",45,2,10.5
+818,27,2,"full time",60,2,8
+240,62,3,"part time",75,4,22
+673,69,NA,"unemployed/retired",50,3,14
+896,50,3,"part time",70,4,17
+882,76,1,"unemployed/retired",35,2,6.5
+103,44,2,"full time",55,3,13
+432,NA,2,"full time",90,3,9.5
+991,83,1,"unemployed/retired",45,2,9
+713,30,4,"part time",85,3,7
+351,29,3,"full time",80,3,8
+1017,67,2,"unemployed/retired",55,2,10.5
+939,35,4,"full time",40,3,8.5
+1061,71,1,"unemployed/retired",NA,1,8
+772,70,2,"unemployed/retired",55,2,13
+751,69,1,NA,50,1,6
+964,46,2,"part time",50,4,12.5
+775,47,3,"part time",90,5,23.5
+430,68,1,"unemployed/retired",35,3,8.5
+679,26,2,"full time",105,2,11
+87,41,2,"full time",65,4,12.5
+11,26,2,"full time",105,2,8.5
+234,63,2,"unemployed/retired",50,3,11.5
+251,50,2,"full time",50,4,17
+902,33,4,"full time",80,2,10.5
+716,76,2,"unemployed/retired",60,3,14.5
+1070,39,3,"part time",95,6,19.5
+683,36,4,"full time",95,3,8.5
+758,43,3,"unemployed/retired",100,4,21
+137,67,2,"unemployed/retired",55,3,13.5
+789,104,4,"full time",80,3,9.5
+827,67,2,"unemployed/retired",50,3,14
+368,27,2,"full time",115,2,10.5
+403,36,4,"full time",80,2,9.5
+688,75,2,"unemployed/retired",40,3,13
+419,47,2,"part time",70,4,12
+636,28,2,"full time",110,2,11
+743,47,2,"part time",75,5,14.5
+1062,42,2,"full time",60,5,16.5
+346,30,NA,"part time",85,2,9
+612,46,3,"unemployed/retired",80,5,22.5
+393,33,4,"full time",35,3,7.5
+601,71,2,"unemployed/retired",50,2,13
+846,26,2,"full time",90,2,9.5
+398,43,2,"full time",65,4,17.5
+149,47,2,"full time",50,4,12.5
+262,28,4,"full time",80,3,9
+159,50,4,"unemployed/retired",11000,6,27
+192,25,2,"full time",85,2,6.5
+651,75,1,"unemployed/retired",55,2,9.5
+1030,76,1,"unemployed/retired",55,1,11.5
+271,48,4,"unemployed/retired",85,3,22
+28,35,3,"part time",95,4,23.5
+762,56,2,"unemployed/retired",40,2,11.5
+876,72,2,"unemployed/retired",60,3,15.5
+931,77,1,"unemployed/retired",NA,2,12
+715,26,2,"full time",105,2,11
+50,34,3,"unemployed/retired",70,4,17.5
+618,61,2,"unemployed/retired",60,3,13.5
+154,51,3,"part time",110,6,21
+181,50,3,"part time",75,5,20.5
+514,50,2,"part time",65,4,17
+565,23,2,"full time",110,2,10
+943,52,3,"part time",100,4,NA
+888,51,3,"unemployed/retired",85,6,19.5
+968,47,3,"part time",90,4,21.5
+180,73,1,"unemployed/retired",40,2,11
+382,25,2,"full time",100,2,9
+856,67,2,"unemployed/retired",50,3,13
+496,42,2,"full time",65,3,12
+446,76,1,"unemployed/retired",40,2,8.5
+890,34,4,"full time",NA,4,11
+719,40,2,"part time",85,4,20
+161,35,4,"part time",65,3,7.5
+475,73,1,"unemployed/retired",50,2,10
+878,31,4,"full time",85,NA,9.5
+582,57,3,"part time",55,5,22.5
+998,39,4,"part time",65,3,9
+894,33,3,"full time",65,2,8
+482,74,1,"unemployed/retired",45,2,11
+270,51,3,"unemployed/retired",85,5,24.5
+146,65,1,NA,40,2,8.5
+676,75,1,"unemployed/retired",40,1,11
+420,66,2,"unemployed/retired",50,2,13.5
+797,34,4,"full time",30,3,9
+99,87,1,"unemployed/retired",45,NA,11.5
+220,46,2,"part time",55,4,14.5
+366,40,2,"part time",65,4,14
+437,41,3,"part time",105,5,19
+23,45,2,"part time",70,4,18
+405,74,1,"unemployed/retired",45,2,8
+276,79,1,"unemployed/retired",40,2,10.5
+826,33,4,"part time",90,3,10.5
+555,25,2,"full time",75,3,8
+1009,81,1,"unemployed/retired",50,2,9.5
+708,67,2,"unemployed/retired",50,3,11.5
+911,73,2,"unemployed/retired",40,3,15.5
+282,43,2,"part time",85,4,18
+709,24,2,"full time",95,2,8.5
+927,101,3,"full time",90,3,8
+744,35,4,"full time",55,3,8.5
+978,41,2,"full time",65,4,12.5
+640,42,2,"part time",55,4,13
+248,45,3,"part time",75,5,19.5
+735,49,3,"unemployed/retired",105,6,23.5
+13,131,2,"unemployed/retired",60,2,11.5
+75,35,4,"part time",85,3,8.5
+136,55,3,"unemployed/retired",95,7,24
+530,70,1,"unemployed/retired",55,2,10
+977,50,3,"part time",85,5,18.5
+588,26,2,"full time",105,2,9
+516,59,3,"unemployed/retired",85,6,20.5
+54,70,2,"unemployed/retired",60,3,12.5
+641,57,2,"part time",80,NA,25
+579,24,2,"full time",100,2,10
+311,25,2,"full time",55,2,6.5
+5,46,3,"part time",85,5,23.5
+644,37,3,"part time",85,4,24.5
+963,42,2,"full time",65,4,9
+501,64,1,"unemployed/retired",50,2,9
+811,42,3,"unemployed/retired",90,5,20
+391,71,1,"unemployed/retired",45,2,12
+1090,78,1,"unemployed/retired",45,2,11
+742,35,4,"part time",50,3,7.5
+936,47,10,"unemployed/retired",125,5,22.5
+1046,74,2,"unemployed/retired",60,3,13
+670,51,3,"part time",80,6,23.5
+199,NA,2,"unemployed/retired",55,3,13.5
+529,66,1,"unemployed/retired",40,2,8
+483,40,2,"part time",75,NA,8
+107,43,3,"part time",100,4,22
+648,68,2,NA,55,3,13
+53,30,4,"full time",55,3,9
+583,37,4,"part time",80,3,8.5
+129,27,4,"full time",90,3,9.5
+279,41,2,"part time",60,4,12.5
+832,NA,4,"part time",75,5,20
+215,69,1,"unemployed/retired",35,2,9.5
+236,71,NA,"unemployed/retired",45,3,14.5
+855,26,3,"full time",90,3,8
+714,46,NA,"full time",60,4,17.5
+985,46,2,"part time",55,3,11.5
+280,77,1,"unemployed/retired",35,3,8
+581,27,2,"full time",85,2,9.5
+438,44,2,"full time",75,4,13.5
+539,39,4,"full time",50,4,7
+402,33,4,"full time",85,2,9
+36,75,2,"unemployed/retired",55,3,14
+460,25,2,"full time",125,2,10.5
+819,83,2,"unemployed/retired",50,3,15
+1066,68,1,"unemployed/retired",30,2,8
+590,34,4,"full time",55,3,9
+301,NA,15,"unemployed/retired",110,4,21.5
+288,21,2,"full time",85,2,8.5
+35,26,4,"full time",75,3,7.5
+241,30,4,"part time",85,3,9.5
+861,81,1,"unemployed/retired",45,1,10
+293,43,2,"part time",65,4,17
+372,41,2,"full time",65,4,13
+605,31,3,"part time",80,4,20.5
+862,73,1,"unemployed/retired",40,2,11.5
+485,72,2,"unemployed/retired",45,2,15
+167,35,4,"part time",80,3,10
+940,59,3,"part time",NA,6,26.5
+169,34,3,"part time",110,4,20.5
+532,33,5,"part time",90,3,NA
+525,78,1,"unemployed/retired",30,2,9
+836,22,2,"full time",105,2,8.5
+132,35,4,"full time",80,3,10
+918,81,2,"unemployed/retired",45,3,12
+741,72,1,"unemployed/retired",35,3,7
+59,73,2,"unemployed/retired",45,3,12
+746,43,2,"part time",50,4,10.5
+523,28,2,"full time",75,2,9
+671,23,2,"full time",75,2,11.5
+71,72,5,"unemployed/retired",40,2,8
+816,22,2,"full time",100,2,10
+86,65,2,"unemployed/retired",40,2,14
+631,57,2,"unemployed/retired",45,3,13.5
+112,57,3,"unemployed/retired",70,6,20
+151,33,3,"full time",45,3,9
+257,81,1,"unemployed/retired",45,2,11
+150,41,2,"part time",NA,4,15
+468,40,2,"part time",65,3,10
+319,61,3,"unemployed/retired",95,5,27.5
+453,25,2,"full time",100,2,9
+445,46,2,"full time",50,4,13
+1099,27,2,"full time",70,1,11.5
+189,56,3,"part time",75,6,25.5
+200,57,3,"part time",105,5,25.5
+731,74,1,"unemployed/retired",50,2,10.5
+767,21,2,"full time",80,2,8.5
+830,24,10,"full time",110,2,9.5
+245,70,2,"unemployed/retired",65,2,13
+1035,74,1,"unemployed/retired",55,2,7.5
+327,69,1,"unemployed/retired",40,2,8.5
+350,33,4,"part time",40,2,9.5
+267,75,1,"unemployed/retired",40,2,8.5
+336,47,3,"unemployed/retired",100,4,22.5
+655,26,2,"full time",85,1,7
+1096,68,1,"unemployed/retired",40,1,10.5
+491,25,2,"full time",85,2,9.5
+782,32,4,"part time",95,2,8.5
+864,46,2,"full time",50,4,10.5
+339,36,3,"part time",90,4,16
+1014,26,5,"part time",75,2,9
+367,65,2,"unemployed/retired",55,2,13
+838,75,1,"unemployed/retired",40,2,10.5
+829,29,3,"full time",80,3,9
+480,92,2,"full time",125,1,7.5
+454,28,2,"full time",90,2,9
+1065,26,2,"full time",85,2,8.5
+786,25,2,"full time",NA,1,6.5
+1063,42,2,"part time",85,4,22
+608,59,3,"unemployed/retired",95,6,28.5
+408,46,2,"full time",60,4,12
+322,45,2,"full time",55,4,12
+607,NA,2,"full time",70,1,9.5
+147,43,2,"full time",55,4,15
+585,75,1,"unemployed/retired",45,2,9
+759,75,1,"unemployed/retired",45,2,10
+1040,50,3,"unemployed/retired",130,5,31
+316,27,NA,"full time",100,2,9
+1051,81,1,"unemployed/retired",45,2,10.5
+116,51,3,"part time",90,6,19.5
+1028,51,3,"part time",100,5,21
+879,72,2,"unemployed/retired",45,2,13
+1082,26,2,"full time",95,2,10
+206,45,3,"part time",85,4,23.5
+757,38,4,"part time",NA,NA,8
+73,62,2,"unemployed/retired",55,2,15.5
+839,69,1,"unemployed/retired",45,2,NA
+74,35,4,"full time",85,3,9
+142,76,1,"unemployed/retired",55,3,9
+895,55,3,"part time",95,NA,26.5
+436,52,4,"unemployed/retired",70,5,25.5
+1045,56,3,"unemployed/retired",70,6,15.5
+176,46,2,"full time",55,4,14
+956,27,2,"full time",80,3,11.5
+591,72,2,"unemployed/retired",55,2,14
+905,75,1,"unemployed/retired",50,2,14
+753,82,2,"unemployed/retired",55,2,NA
+602,74,1,"unemployed/retired",55,2,12
+979,26,10,"full time",85,2,10
+668,73,1,"unemployed/retired",40,2,8.5
+387,32,4,"part time",55,3,10
+917,75,1,"unemployed/retired",50,2,9.5
+120,43,3,"part time",90,5,21.5
+121,35,4,"part time",80,3,NA
+518,83,2,"unemployed/retired",55,2,12.5
+921,42,2,"full time",60,4,17.5
+1039,31,4,"full time",60,3,9.5
+1004,48,2,"part time",60,4,17
+289,42,2,"part time",55,4,12
+498,58,2,"unemployed/retired",45,2,12
+546,31,4,"part time",80,3,9.5
+696,NA,1,"unemployed/retired",25,3,10
+1027,29,4,"full time",95,3,8.5
+140,76,1,"unemployed/retired",40,2,9
+938,44,2,"part time",50,4,11
+458,57,NA,"unemployed/retired",60,2,9
+764,59,2,"part time",70,5,17
+406,43,2,"full time",70,4,14
+80,47,2,"part time",55,4,10
+639,34,4,"part time",65,3,10
+915,27,2,"full time",95,2,8.5
+131,26,2,"full time",120,2,7.5
+993,33,4,"full time",80,2,9.5
+238,71,1,"unemployed/retired",45,3,8.5
+976,21,2,"full time",105,2,7.5
+118,NA,2,"part time",75,4,18
+684,33,4,"part time",65,3,8.5
+375,74,1,"unemployed/retired",45,2,9
+737,79,1,"unemployed/retired",55,2,12
+123,24,2,"full time",100,1,8.5
+512,48,3,"unemployed/retired",75,5,19.5
+667,46,2,"full time",55,4,13.5
+172,NA,1,"unemployed/retired",45,2,10.5
+520,75,1,"unemployed/retired",50,2,8.5
+887,75,1,"unemployed/retired",45,2,10
+25,23,2,"full time",105,2,8.5
+98,50,2,"part time",85,5,19.5
+486,69,2,"unemployed/retired",55,2,10
+204,62,3,"unemployed/retired",110,7,20
+106,34,5,"part time",80,4,9
+228,33,4,"part time",80,3,9.5
+130,41,2,"full time",60,4,11
+798,45,2,"part time",60,4,10
+808,29,20,"full time",115,3,10.5
+273,24,2,"full time",100,2,10
+969,30,4,"full time",60,3,11
+1098,44,2,"full time",60,4,16
+768,23,2,"full time",100,2,NA
+462,25,2,"full time",95,2,7.5
+643,26,2,"full time",80,2,12
+126,43,2,"part time",70,4,14.5
+653,41,2,"unemployed/retired",90,4,14
+93,77,1,"unemployed/retired",40,2,11.5
+761,75,1,"unemployed/retired",55,2,8
+412,37,3,"part time",90,6,20.5
+308,22,2,"full time",110,2,11
+465,NA,4,"full time",65,3,9.5
+791,29,4,"part time",50,3,8.5
+674,54,4,"part time",70,4,27
+1010,25,2,"full time",85,2,9.5
+1020,39,4,"full time",85,3,9.5
+190,32,4,"full time",80,3,9.5
+1094,55,3,"part time",105,5,25
+704,74,1,"unemployed/retired",35,1,9.5
+680,44,4,"unemployed/retired",100,4,21
+97,34,4,"full time",95,3,9
+569,77,1,"unemployed/retired",55,2,10.5
+986,73,2,"unemployed/retired",60,3,13
+1001,50,4,"part time",110,5,20.5
+148,48,2,"full time",50,4,NA
+970,70,1,"unemployed/retired",60,2,11
+373,73,1,"unemployed/retired",40,2,NA
+138,45,2,"part time",80,4,21
+493,70,1,"unemployed/retired",40,2,9
+259,74,1,"unemployed/retired",40,2,10.5
+967,44,2,"full time",50,4,9
+371,23,2,"full time",110,2,11.5
+690,24,2,"full time",90,2,9.5
+415,63,2,"unemployed/retired",40,3,12
+252,46,2,"part time",NA,4,27
+378,54,2,"unemployed/retired",50,3,11.5
+186,74,2,"unemployed/retired",50,2,11.5
+711,36,4,"full time",70,3,9
+175,43,2,"part time",60,4,16
+188,22,2,"full time",95,2,9
+440,23,2,"full time",90,1,8.5
+749,47,2,"part time",NA,4,14
+736,23,2,"full time",85,2,11
+722,75,2,"unemployed/retired",60,2,15.5
+1088,79,2,"unemployed/retired",45,2,12.5
+694,73,1,"unemployed/retired",45,2,11
+807,37,4,"part time",80,NA,8
+111,32,NA,"full time",70,3,9.5
+547,31,4,"full time",45,3,7.5
+1008,42,2,"part time",55,4,12
+27,32,4,"part time",70,3,8.5
+945,68,2,"part time",75,NA,21.5
+96,44,2,"full time",65,3,14.5
+182,32,4,"full time",50,3,9.5
+920,31,4,"full time",70,3,10
+65,75,1,"unemployed/retired",50,2,9
+960,73,2,"unemployed/retired",50,3,14
+158,27,2,"full time",45,2,10.5
+515,80,1,"unemployed/retired",50,2,10.5
+207,30,4,"part time",65,3,7.5
+566,27,2,"full time",95,2,10.5
+160,31,5,"full time",75,2,10
+1034,51,3,"unemployed/retired",70,5,19.5
+622,45,2,"full time",65,4,15.5
+306,79,1,"unemployed/retired",NA,2,7.5
+948,78,1,"unemployed/retired",4000,3,10.5
+173,72,1,"unemployed/retired",40,2,11
+752,23,2,"full time",8500,1,6.5
+43,62,2,"unemployed/retired",40,2,11
+726,45,2,"full time",40,3,14.5
+994,25,2,"full time",75,2,10
+614,41,2,"full time",75,3,13
+823,33,5,"part time",100,3,9.5
+244,37,4,"part time",90,4,11
+474,70,1,"unemployed/retired",45,1,10
+858,79,10,"unemployed/retired",55,3,13.5
+157,101,3,"full time",65,3,7
+325,78,2,"unemployed/retired",40,3,12.5
+423,46,2,"part time",60,5,14.5
+729,66,1,"unemployed/retired",50,2,10
+663,52,3,"part time",65,3,28.5
+242,78,1,"unemployed/retired",35,2,7.5
+1076,85,2,"unemployed/retired",45,2,14.5
+705,71,2,"unemployed/retired",55,2,14
+1067,36,5,"full time",60,4,10.5
+299,76,1,"unemployed/retired",45,3,7.5
+287,31,4,"part time",9000,2,8.5
+16,75,1,"unemployed/retired",NA,2,10
+133,64,2,"unemployed/retired",55,2,12
+912,44,2,"full time",55,4,14
+987,48,3,"part time",90,4,25
+659,52,2,"part time",100,6,23
+778,27,2,"full time",60,2,10
+224,43,2,"part time",65,4,13.5
+213,37,4,"part time",75,3,8.5
+490,43,3,"part time",110,4,20.5
+702,46,2,"full time",60,4,19.5
+647,65,2,"unemployed/retired",40,3,11
+449,27,2,"full time",90,2,8
+822,37,3,"full time",95,3,9.5
+980,36,4,"full time",70,2,9
+750,49,2,"part time",70,4,15.5
+243,36,4,"full time",85,3,10
+824,25,2,"full time",90,2,10
+961,30,2,"full time",115,3,11.5
+45,45,2,"full time",75,4,17.5
+41,45,3,"part time",85,4,24
+105,44,2,"full time",60,4,13
+596,45,NA,"full time",75,4,17
+356,49,2,"part time",90,4,19
+720,33,5,"part time",60,3,8
+865,45,2,"part time",65,4,13.5
+765,47,2,"part time",55,5,16.5
+102,24,2,"full time",70,2,10.5
+314,24,2,"full time",70,3,6.5
+721,46,2,"part time",70,4,16
+31,81,1,"unemployed/retired",40,3,11
+589,42,2,"full time",55,4,11
+201,49,2,"part time",45,4,15
+754,22,2,"full time",NA,1,8
+38,78,1,"unemployed/retired",60,3,11.5
+263,24,10,"full time",90,3,8.5
+90,34,NA,"full time",60,3,8
+464,30,4,"full time",95,3,9.5
+448,25,2,"full time",85,2,6.5
+587,37,4,"part time",NA,3,10
+268,51,3,"part time",85,4,22
+14,53,3,"part time",85,6,23
+307,NA,1,"unemployed/retired",35,2,10
+900,45,2,"part time",65,4,16
+94,43,2,"full time",65,4,11
+526,45,3,"part time",115,5,21
+997,35,4,"part time",80,3,9.5
+1055,42,3,"part time",85,5,21.5
+44,36,4,"part time",85,3,10.5
+100,65,2,"unemployed/retired",55,2,12
+324,101,4,"full time",70,3,9
+166,76,1,"unemployed/retired",50,2,8.5
+973,44,3,"part time",80,4,19.5
+953,73,1,"unemployed/retired",45,2,9
+507,25,2,"full time",70,2,8.5
+869,NA,4,"full time",65,3,NA
+85,NA,2,"full time",95,2,7.5
+989,42,2,"part time",50,4,18
+930,44,2,"full time",65,5,15
+82,79,2,"unemployed/retired",60,2,16
+277,30,2,"full time",80,3,9
+457,82,1,"unemployed/retired",40,2,11.5
+703,27,2,"full time",125,NA,8.5
+7,24,2,"full time",65,2,7
+326,30,4,"full time",85,3,8.5
+724,70,1,"unemployed/retired",50,2,10.5
+141,42,10,"part time",60,4,14.5
+450,55,3,"unemployed/retired",100,5,22
+354,76,2,"unemployed/retired",50,3,15
+135,69,2,"unemployed/retired",45,3,12
+1074,77,1,"unemployed/retired",25,2,7
+815,47,2,"full time",60,3,NA
+134,34,5,"part time",80,3,9.5
+24,33,4,"part time",60,4,9
+728,33,4,"full time",80,3,9.5
+1023,NA,4,"part time",60,5,20
+218,82,1,"unemployed/retired",45,2,9
+654,25,2,"full time",70,2,7.5
+699,50,2,"full time",55,4,14
+595,75,1,"unemployed/retired",50,2,12
+544,57,3,"unemployed/retired",100,4,19.5
+554,49,3,"part time",NA,4,21
+439,73,2,"unemployed/retired",40,3,13.5
+804,105,4,"part time",65,3,9
+295,42,2,"full time",45,4,12.5
+932,24,2,"full time",115,2,10
+478,69,1,"unemployed/retired",45,2,9
+211,25,10,"full time",115,2,9
+1011,75,1,"unemployed/retired",45,2,9.5
+787,49,2,"part time",60,4,13.5
+748,74,NA,"unemployed/retired",40,3,13
+1077,45,2,"full time",50,3,14.5
+495,36,4,"full time",55,4,8
+545,35,4,"part time",70,4,9
+1079,74,2,"unemployed/retired",70,2,14
+358,45,2,"full time",55,3,12.5

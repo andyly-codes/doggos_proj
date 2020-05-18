@@ -1,0 +1,71 @@
+"id","age","npeople","work","activity","bedrooms","gardensize"
+449,27,2,"full time",90,2,8
+989,42,2,"part time",50,4,18
+41,45,3,"part time",85,4,24
+201,49,2,"part time",45,4,15
+100,65,2,"unemployed/retired",55,2,12
+702,46,2,"full time",60,4,19.5
+213,37,4,"part time",75,3,8.5
+900,45,2,"part time",65,4,16
+295,42,2,"full time",45,4,12.5
+589,42,2,"full time",55,4,11
+82,79,2,"unemployed/retired",60,2,16
+7,24,2,"full time",65,2,7
+464,30,4,"full time",95,3,9.5
+105,44,2,"full time",60,4,13
+750,49,2,"part time",70,4,15.5
+439,73,2,"unemployed/retired",40,3,13.5
+932,24,2,"full time",115,2,10
+961,30,2,"full time",115,3,11.5
+721,46,2,"part time",70,4,16
+507,25,2,"full time",70,2,8.5
+703,27,2,"full time",125,NA,8.5
+31,81,1,"unemployed/retired",40,3,11
+135,69,2,"unemployed/retired",45,3,12
+211,25,10,"full time",115,2,9
+307,NA,1,"unemployed/retired",35,2,10
+587,37,4,"part time",NA,3,10
+804,105,4,"part time",65,3,9
+94,43,2,"full time",65,4,11
+526,45,3,"part time",115,5,21
+38,78,1,"unemployed/retired",60,3,11.5
+554,49,3,"part time",NA,4,21
+765,47,2,"part time",55,5,16.5
+1077,45,2,"full time",50,3,14.5
+326,30,4,"full time",85,3,8.5
+356,49,2,"part time",90,4,19
+102,24,2,"full time",70,2,10.5
+166,76,1,"unemployed/retired",50,2,8.5
+997,35,4,"part time",80,3,9.5
+277,30,2,"full time",80,3,9
+647,65,2,"unemployed/retired",40,3,11
+720,33,5,"part time",60,3,8
+1055,42,3,"part time",85,5,21.5
+929,71,1,"unemployed/retired",45,NA,10
+1074,77,1,"unemployed/retired",25,2,7
+268,51,3,"part time",85,4,22
+24,33,4,"part time",60,4,9
+457,82,1,"unemployed/retired",40,2,11.5
+495,36,4,"full time",55,4,8
+478,69,1,"unemployed/retired",45,2,9
+699,50,2,"full time",55,4,14
+822,37,3,"full time",95,3,9.5
+14,53,3,"part time",85,6,23
+243,36,4,"full time",85,3,10
+490,43,3,"part time",110,4,20.5
+44,36,4,"part time",85,3,10.5
+748,74,NA,"unemployed/retired",40,3,13
+441,54,3,"unemployed/retired",85,6,NA
+450,55,3,"unemployed/retired",100,5,22
+141,42,10,"part time",60,4,14.5
+778,27,2,"full time",60,2,10
+869,NA,4,"full time",65,3,NA
+728,33,4,"full time",80,3,9.5
+912,44,2,"full time",55,4,14
+754,22,2,"full time",NA,1,8
+263,24,10,"full time",90,3,8.5
+324,101,4,"full time",70,3,9
+421,83,1,"unemployed/retired",NA,2,9
+90,34,NA,"full time",60,3,8
+596,45,NA,"full time",75,4,17
+953,73,1,"unemployed/retired",45,2,9
